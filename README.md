@@ -69,6 +69,6 @@ Customer Management Module built using the MERN Stack.
 
 📧 Email: lakshanidewapura03@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/lakshani-dewapura
+💼 LinkedIn: [Lakshani Dewapura](http://linkedin.com/in/lakshani-dewapura-7a992836b)
 
 🐙 GitHub: github.com/lakzi03
