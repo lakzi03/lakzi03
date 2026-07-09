@@ -71,4 +71,4 @@ Customer Management Module built using the MERN Stack.
 
 💼 LinkedIn: [Lakshani Dewapura](http://linkedin.com/in/lakshani-dewapura-7a992836b)
 
-🐙 GitHub: github.com/lakzi03
+🐙 GitHub: https://github.com/lakzi03
